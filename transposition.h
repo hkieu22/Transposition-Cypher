@@ -6,8 +6,6 @@
 #include <stdlib.h>
 
 /*
-* Read and reallocate memory the input from an input file or standard input
-*
 * Parameters:
 *     input_filename - pointer to the file that contains input file or standard
 *     input
